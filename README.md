@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ba0d5b5f-4921-4933-8597-e0e83171c688">
-  <img alt="Azul Logo ('AZUL' spelt in a glitched font)" src="https://github.com/user-attachments/assets/b7f8cf93-e649-423d-9ea3-8eb833463bc6" width="60%">
+  <source media="(prefers-color-scheme: dark)" srcset="./azul-text-glitched.dark.svg">
+  <img alt="Azul Logo ('AZUL' spelt in a glitched font)" src="./azul-text-glitched.light.svg" width="60%">
 </picture>
 
 <br>
@@ -40,6 +40,6 @@ advice through this forum.
 
 ## Licencing
 
-Azul is licenced under the MIT Licence. Docker images ship with dependencies that may be licenced differently;
-it is your responsibility to validate that these meet your needs.
+Azul is [licenced](./license.md) under the MIT Licence. Docker images ship with dependencies that may be
+licenced differently; it is your responsibility to validate that these meet your needs.
 
