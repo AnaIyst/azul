@@ -7,7 +7,7 @@
 <br>
 
 Azul is a malware repository, analytical engine and clustering suite dedicated to handling malware. 
-It is designed to be highly scalable, and store tens of millions of samples, and continuously updates
+It is designed to be highly scalable, and store tens of millions of samples. It continuously updates
 file results as updates to detection logic are authored.
 
 Azul was created to improve productivity of reverse engineers. Manual reverse engineering can take
@@ -24,6 +24,10 @@ like [Assemblyline](https://github.com/CybercentreCanada/assemblyline), or throu
 activities / threat hunting / honeypots.
 
 Azul is an official product of the Australian Signals Directorate.
+
+## Getting Started
+
+Documentation for getting started can be found in Azul's [documentation](https://asd-azul.github.io).
 
 ## Getting Help
 
