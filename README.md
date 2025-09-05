@@ -7,8 +7,8 @@
 <br>
 
 Azul is a malware repository, analytical engine and clustering suite dedicated to handling malware. 
-It is designed to be highly scalable, and store tens of millions of samples. It continuously updates
-file results as updates to detection logic are authored.
+It is designed to be highly scalable, and store hundreds of millions of samples. It continuously
+updates file results as updates to detection logic are authored.
 
 Azul was created to improve productivity of reverse engineers. Manual reverse engineering can take
 hours to get basic IOCs out of samples, days to determine capabilities of malware, and months to get
