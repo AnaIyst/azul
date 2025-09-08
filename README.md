@@ -1,10 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./azul-text-glitched.dark.svg">
-  <img alt="Azul Logo ('AZUL' spelt in a glitched font)" src="./azul-text-glitched.light.svg" width="60%">
-</picture>
-
-<br>
-<br>
+<p align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./azul-text-glitched.dark.svg">
+    <img alt="Azul Logo ('AZUL' spelt in a glitched font)" src="./azul-text-glitched.light.svg" width="60%">
+  </picture>
+</p>
 
 Azul is a malware knowledge base designed for malware archival, analytics and clustering.
 It is designed to be highly scalable, and store hundreds of millions of samples. It continuously
