@@ -6,7 +6,7 @@
 <br>
 <br>
 
-Azul is a malware repository, analytical engine and clustering suite dedicated to handling malware. 
+Azul is a malware knowledge base designed for malware archival, analytics and clustering.
 It is designed to be highly scalable, and store hundreds of millions of samples. It continuously
 updates file results as updates to detection logic are authored.
 
