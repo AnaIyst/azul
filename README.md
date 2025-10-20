@@ -5,40 +5,40 @@
   </picture>
 </p>
 
-Azul is a malware knowledge base designed for malware archival, analytics and clustering.
+Azul is a malware knowledge base designed for malware achiving, analytics and clustering.
 It is designed to be highly scalable, and store hundreds of millions of samples. It continuously
 updates file results as updates to detection logic are authored.
 
-Azul was created to improve productivity of reverse engineers. Manual reverse engineering can take
-hours to get basic IOCs out of samples, days to determine capabilities of malware, and months to get
-an in depth understanding of families of malware.
+Azul was created to improve the productivity of reverse engineers. Manual reverse engineering can take
+hours to get basic IOCs out of samples, days to determine the capabilities of malware, and months to get
+an in-depth understanding of malware families.
 
-Through use of Azul, the outputs of this manual analysis can be inserted into an automated workflow.
-This can remove the need for re-analysis of similar samples of malware. Usage of Azul can identify
-variants of a family of malware though techniques beyond Yara rules.
+Reverse engineers can use Azul to to turn common analysis steps into analysis plugins,
+which can be used as part of an automated workflow.
+This reduces the need for manual re-analysis of similar samples of malware, and can assist in identifying
+variants of a malware family through techniques beyond [Yara](https://virustotal.github.io/yara/) rules.
 
-Azul does not perform binary triage, i.e. it does not identify if files are malicious. Anything stored
-in Azul should be identified as suspicious or malicious either through binary triage tools 
-like [Assemblyline](https://github.com/CybercentreCanada/assemblyline), or through incident response
-activities / threat hunting / honeypots.
+Azul does not perform binary triage; that is, it does not identify whether files are malicious. 
+Anything stored in Azul should first be identified as suspicious or malicious either through binary triage tools 
+like [Assemblyline](https://github.com/CyberCentreCanada/assemblyline),
+or through incident response activities / threat hunting / honeypots.
 
 Azul is an official product of the Australian Signals Directorate.
 
-## Getting Started
+## Getting started
 
 Documentation for getting started can be found in Azul's [documentation](https://asd-azul.github.io).
 
-## Getting Help
+## Getting help
 
-If you are experiencing an issue with Azul, please raise an issue in this repository (other repositories
-have issue reporting disabled given how many there are). Support is best effort for Azul.
+If you are experiencing a problem with Azul, please raise an issue in this repository
+(other repositories have issue reporting disabled given how many there are).
+Support for Azul is not guaranteed, and is provided on a "best-effort" basis.
 
 Experiencing a cyber security incident? Visit <https://cyber.gov.au> or call 1300 292 371 (1300 CYBER 1)
-to report cybersecurity incidents and access alerts and advisories. We cannot provide cyber incident
-advice through this forum.
+to report cybersecurity incidents and access alerts and advisories. The Azul team cannot provide cyber incident advice.
 
-## Licencing
+## Licensing
 
-Azul is [licenced](./license.md) under the MIT Licence. Docker images ship with dependencies that may be
-licenced differently; it is your responsibility to validate that these meet your needs.
-
+Azul is [licensed](./license.md) under the MIT Licence. Docker images ship with included dependencies that may be
+licensed differently; it is your responsibility to verify that these licences permit your intended use.
