@@ -33,7 +33,7 @@ Documentation for getting started can be found in Azul's [documentation](https:/
 
 If you are experiencing a problem with Azul, please raise an issue in this repository
 (other repositories have issue reporting disabled given how many there are).
-Support for Azul is not guaranteed, and is provided on a "best-effort" basis.
+Support for Azul does not have a guaranteed response time, and is provided on a "best-effort" basis.
 
 Experiencing a cyber security incident? Visit <https://cyber.gov.au> or call 1300 292 371 (1300 CYBER 1)
 to report cybersecurity incidents and access alerts and advisories. The Azul team cannot provide cyber incident advice.
