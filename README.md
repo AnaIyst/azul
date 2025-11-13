@@ -27,7 +27,7 @@ Azul is an official product of the Australian Signals Directorate.
 
 ## Getting started
 
-Documentation for getting started can be found in Azul's [documentation](https://asd-azul.github.io).
+Documentation for getting started can be found in Azul's [documentation](https://australiancybersecuritycentre.github.io/azul/).
 
 ## Getting help
 
