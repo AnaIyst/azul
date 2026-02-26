@@ -13,7 +13,7 @@ Azul was created to improve the productivity of reverse engineers. Manual revers
 hours to get basic IOCs out of samples, days to determine the capabilities of malware, and months to get
 an in-depth understanding of malware families.
 
-Reverse engineers can use Azul to to turn common analysis steps into analysis plugins,
+Reverse engineers can use Azul to turn common analysis steps into analysis plugins,
 which can be used as part of an automated workflow.
 This reduces the need for manual re-analysis of similar samples of malware, and can assist in identifying
 variants of a malware family through techniques beyond [Yara](https://virustotal.github.io/yara/) rules.
